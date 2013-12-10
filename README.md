@@ -89,7 +89,7 @@ I can't promise to answer any questions regarding this code, but I will try. But
 
 If you create an app using the code, I'd also want to hear about it. You could find my contact details below:
 
-[Portfolio site](http://didatstriadi.com)
+[Portfolio site](http://didatstriadi.com) 
 [@didats](https://twitter.com/didats)
 
 ## License and Warranty
