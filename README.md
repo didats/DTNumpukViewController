@@ -2,6 +2,9 @@
 
 DTNumpukViewController is a View Controller class which has 3 stacked main View Controllers. You will be able to dragging between each of them and interact with each controllers
 
+## Screenshot
+![alt tag](https://www.dropbox.com/s/zapd8a61rrcixk4/Foto%2011-12-13%2013.08.13.png)
+
 ## Usage
 
 ### Create a property on your App Delegate header file
