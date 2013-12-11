@@ -88,7 +88,7 @@ You are not encourage to do, but sure I will be glad if you buy one of my apps h
 
 ## Support & Contact
 
-I can't promise to answer any questions regarding this code, but I will try. But I always happy to email telling me that you are using it or just saying thanks.
+I can't promise to answer any questions regarding this code. But I always happy to email telling me that you are using it or just saying thanks.
 
 If you create an app using the code, I'd also want to hear about it. You could find my contact details below:
 
